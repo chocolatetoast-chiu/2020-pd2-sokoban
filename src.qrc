@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>imgs/mario.png</file>
+        <file>imgs/bomb.png</file>
+        <file>imgs/box.png</file>
+        <file>imgs/main.png</file>
+        <file>imgs/point.png</file>
+        <file>imgs/wall.png</file>
+        <file>imgs/BG.png</file>
+    </qresource>
+</RCC>
